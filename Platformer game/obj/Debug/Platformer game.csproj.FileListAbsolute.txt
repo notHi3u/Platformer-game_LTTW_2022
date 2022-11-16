@@ -1,0 +1,11 @@
+D:\Platformer game\bin\Debug\Platformer game.exe.config
+D:\Platformer game\bin\Debug\Platformer game.exe
+D:\Platformer game\bin\Debug\Platformer game.pdb
+D:\Platformer game\obj\Debug\Platformer game.csproj.AssemblyReference.cache
+D:\Platformer game\obj\Debug\Platformer game.csproj.SuggestedBindingRedirects.cache
+D:\Platformer game\obj\Debug\Platformer_game.Properties.Resources.resources
+D:\Platformer game\obj\Debug\Platformer game.csproj.GenerateResource.cache
+D:\Platformer game\obj\Debug\Platformer game.csproj.CoreCompileInputs.cache
+D:\Platformer game\obj\Debug\Platformer game.exe
+D:\Platformer game\obj\Debug\Platformer game.pdb
+D:\Platformer game\obj\Debug\Platformer_game.frmPlatfomer.resources
